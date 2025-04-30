@@ -27,11 +27,13 @@ import matplotlib.pyplot as plt
 
 Foram carregados 4 arquivos `.csv`, um para cada loja, utilizando o `pandas.read_csv()`.
 
-
+```python
 loja1 = pd.read_csv(url1)
 loja2 = pd.read_csv(url2)
 loja3 = pd.read_csv(url3)
 loja4 = pd.read_csv(url4)
+```
+
 
 
 ### 2. Padronização das Colunas
