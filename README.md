@@ -62,6 +62,6 @@ ano_mes: colunas para facilitar agrupamentos por período.
 
 ## 📌 Conclusões
 
-- Identificamos o faturamento ao longo dos meses e anos.
-- Avaliamos as categorias e produtos mais rentáveis.
+- Identificamos o faturamento total no periodo e ao longo dos meses.
+- Avaliamos os produtos mais rentáveis.
 - Comparações entre lojas por frete, avaliação e desempenho de vendas.
